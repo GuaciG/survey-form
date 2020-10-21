@@ -40,7 +40,10 @@ This project was built as a challenge on freecodecamp course. It was part of Res
 
 
 
-Also you can find the working demo in [codepen](https://codepen.io/GuaciG/pen/BXerev)
+
+You can take a look at this project in [github](https://guacig.github.io/survey-form/)
+
+Also you can find the working demo in [codepen](https://codepen.io/GuaciG/full/BXerev)
 
 Feedback issues etc. are more than welcome! Thanks!
 
